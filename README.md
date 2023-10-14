@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Thakur</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitthakur9901&label=Profile%20views&color=0e75b6&style=flat" alt="mohitthakur9901" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitthakur9901" alt="mohitthakur9901" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mohit__002" target="blank"><img src="https://img.shields.io/twitter/follow/mohit__002?logo=twitter&style=for-the-badge" alt="mohit__002" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript And Networking**
 
