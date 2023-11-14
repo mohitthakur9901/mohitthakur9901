@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript And Networking**
+- 🌱 I’m currently learning **Advance Backend And Networking**
 
 - 💬 Ask me about **MERN Stack**
 
