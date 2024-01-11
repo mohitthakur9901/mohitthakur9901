@@ -3,9 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Advance Backend And Networking**
-
-- 💬 Ask me about **MERN Stack**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 📫 How to reach me **Mohitthakur9901@gmail.com**
 
